@@ -1,0 +1,4 @@
+AdminUser,Address1,07123456789,admin@email.com,123,1500,Adult,Admin
+JohnDoe,Address2,07222222222,john@email.com,123,500,Adult,User
+JaneTeen,Address3,07333333333,jane@email.com,123,200,Teen,User
+MichaelUser,Address4,07444444444,michael@email.com,abc,750,Adult,User
